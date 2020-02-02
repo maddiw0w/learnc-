@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Art\\Documents\\learnc-\\urok1\\urok1.csproj",
-      "projectName": "urok1",
-      "projectPath": "C:\\Users\\Art\\Documents\\learnc-\\urok1\\urok1.csproj",
+      "projectUniqueName": "C:\\Users\\Art\\Documents\\learnc-\\urok2\\urok2.csproj",
+      "projectName": "urok2",
+      "projectPath": "C:\\Users\\Art\\Documents\\learnc-\\urok2\\urok2.csproj",
       "packagesPath": "C:\\Users\\Art\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Art\\Documents\\learnc-\\urok1\\obj\\",
+      "outputPath": "C:\\Users\\Art\\Documents\\learnc-\\urok2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Art\\AppData\\Roaming\\NuGet\\NuGet.Config",
