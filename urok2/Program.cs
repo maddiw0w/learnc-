@@ -6,7 +6,23 @@ namespace urok2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (; ; )
+            {
+            bool two = false;
+            Console.WriteLine("Сколько будет 1+1=");
+            var number = Convert.ToInt32(Console.ReadLine());
+            switch(number)
+            {
+                case 2:
+                    two = true;
+                    Console.WriteLine("Ответ 2");
+                    break;
+                default:
+                    Console.WriteLine("НэВэрный");
+                    break;
+            }
+            Console.WriteLine(two ? "molodec" : "hyeplett");
+            }
         }
     }
 }

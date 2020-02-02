@@ -9,3 +9,14 @@ D:\Program Files\User\learnsharp_2\urok1\obj\Debug\netcoreapp3.1\urok1.AssemblyI
 D:\Program Files\User\learnsharp_2\urok1\obj\Debug\netcoreapp3.1\urok1.AssemblyInfo.cs
 D:\Program Files\User\learnsharp_2\urok1\obj\Debug\netcoreapp3.1\urok1.dll
 D:\Program Files\User\learnsharp_2\urok1\obj\Debug\netcoreapp3.1\urok1.pdb
+C:\Users\Art\Documents\learnc-\urok1\bin\Debug\netcoreapp3.1\urok1.exe
+C:\Users\Art\Documents\learnc-\urok1\bin\Debug\netcoreapp3.1\urok1.deps.json
+C:\Users\Art\Documents\learnc-\urok1\bin\Debug\netcoreapp3.1\urok1.runtimeconfig.json
+C:\Users\Art\Documents\learnc-\urok1\bin\Debug\netcoreapp3.1\urok1.runtimeconfig.dev.json
+C:\Users\Art\Documents\learnc-\urok1\bin\Debug\netcoreapp3.1\urok1.dll
+C:\Users\Art\Documents\learnc-\urok1\bin\Debug\netcoreapp3.1\urok1.pdb
+C:\Users\Art\Documents\learnc-\urok1\obj\Debug\netcoreapp3.1\urok1.csprojAssemblyReference.cache
+C:\Users\Art\Documents\learnc-\urok1\obj\Debug\netcoreapp3.1\urok1.AssemblyInfoInputs.cache
+C:\Users\Art\Documents\learnc-\urok1\obj\Debug\netcoreapp3.1\urok1.AssemblyInfo.cs
+C:\Users\Art\Documents\learnc-\urok1\obj\Debug\netcoreapp3.1\urok1.dll
+C:\Users\Art\Documents\learnc-\urok1\obj\Debug\netcoreapp3.1\urok1.pdb

@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "urok1", "urok1\urok1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urok2", "urok2\urok2.csproj", "{5DE562B2-9832-41DD-8145-690A2B2EE24C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urok3", "urok3\urok3.csproj", "{881995DB-CE74-4D3E-B488-46CBE113BF1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urok5", "urok5\urok5.csproj", "{5822C986-B271-470D-A453-E681422B759C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5DE562B2-9832-41DD-8145-690A2B2EE24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DE562B2-9832-41DD-8145-690A2B2EE24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DE562B2-9832-41DD-8145-690A2B2EE24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881995DB-CE74-4D3E-B488-46CBE113BF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881995DB-CE74-4D3E-B488-46CBE113BF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881995DB-CE74-4D3E-B488-46CBE113BF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881995DB-CE74-4D3E-B488-46CBE113BF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5822C986-B271-470D-A453-E681422B759C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5822C986-B271-470D-A453-E681422B759C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5822C986-B271-470D-A453-E681422B759C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5822C986-B271-470D-A453-E681422B759C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

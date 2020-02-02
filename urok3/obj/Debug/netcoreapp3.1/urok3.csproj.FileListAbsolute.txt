@@ -1,0 +1,11 @@
+C:\Users\Art\Documents\learnc-\urok3\bin\Debug\netcoreapp3.1\urok3.exe
+C:\Users\Art\Documents\learnc-\urok3\bin\Debug\netcoreapp3.1\urok3.deps.json
+C:\Users\Art\Documents\learnc-\urok3\bin\Debug\netcoreapp3.1\urok3.runtimeconfig.json
+C:\Users\Art\Documents\learnc-\urok3\bin\Debug\netcoreapp3.1\urok3.runtimeconfig.dev.json
+C:\Users\Art\Documents\learnc-\urok3\bin\Debug\netcoreapp3.1\urok3.dll
+C:\Users\Art\Documents\learnc-\urok3\bin\Debug\netcoreapp3.1\urok3.pdb
+C:\Users\Art\Documents\learnc-\urok3\obj\Debug\netcoreapp3.1\urok3.csprojAssemblyReference.cache
+C:\Users\Art\Documents\learnc-\urok3\obj\Debug\netcoreapp3.1\urok3.AssemblyInfoInputs.cache
+C:\Users\Art\Documents\learnc-\urok3\obj\Debug\netcoreapp3.1\urok3.AssemblyInfo.cs
+C:\Users\Art\Documents\learnc-\urok3\obj\Debug\netcoreapp3.1\urok3.dll
+C:\Users\Art\Documents\learnc-\urok3\obj\Debug\netcoreapp3.1\urok3.pdb
